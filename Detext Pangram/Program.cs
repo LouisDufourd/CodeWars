@@ -1,3 +1,1 @@
-﻿using Detext_Pangram;
-
-Console.WriteLine(Kata.IsPangram("abcdefghijklmnopqrstuvwxyz"));
+﻿Console.WriteLine(Kata.IsPangram("abcdefghijklmnopqrstuvwxyz"));

@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Categorize New Member", "Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direction Reduction", "Direction Reduction\Direction Reduction.csproj", "{778C1759-3547-4E9D-AD59-32407715FD27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerSumDigit", "PowerSumDig\PowerSumDigit.csproj", "{55C08C8B-D389-4EFC-94FB-C8F2FD61F287}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{778C1759-3547-4E9D-AD59-32407715FD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{778C1759-3547-4E9D-AD59-32407715FD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{778C1759-3547-4E9D-AD59-32407715FD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C08C8B-D389-4EFC-94FB-C8F2FD61F287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C08C8B-D389-4EFC-94FB-C8F2FD61F287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C08C8B-D389-4EFC-94FB-C8F2FD61F287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C08C8B-D389-4EFC-94FB-C8F2FD61F287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

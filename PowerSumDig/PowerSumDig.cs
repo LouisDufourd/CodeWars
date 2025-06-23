@@ -11,17 +11,13 @@ public class PowerSumDig
     {
         List<long> longs = new();
 
-        for (int i = 11; n > longs.Count; i++)
+        for (long i = 11; n > longs.Count; i++)
         {
             var power = getPower(i, Sum(i));
+            var roundPower = Math.Round(power);
+            var difference = Math.Abs(power - roundPower);
 
-            if(i == 4913 || i == 5832 || i == 1679616)
-            {
-                longs.Add(i);
-                continue;
-            }
-
-            if(power % 1 == 0)
+            if(power % 1 == 0 || difference <= 0.0000001)
             {
                 longs.Add(i);
             }
@@ -30,7 +26,7 @@ public class PowerSumDig
         return longs[n - 1];
     }
 
-    public static int Sum(int i)
+    public static int Sum(long i)
     {
         string number = $"{i}";
         int sum = 0;

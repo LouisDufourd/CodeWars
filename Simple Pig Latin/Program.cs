@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Kata.PigIt("Hello world !"));

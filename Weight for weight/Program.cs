@@ -1,0 +1,1 @@
+﻿Console.WriteLine(WeightSort.orderWeight("71899703 200 6 91 425 4 67407 7 96488 6 4 2 7 31064 9 7920 1 34608557 27 72 18 81"));

@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Ip Addresses", "Count
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Not very secure", "Not very secure\Not very secure.csproj", "{3FDA4ABF-AF38-4D9D-929B-E91F5701471A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credit card issuer checking", "Credit card issuer checking\Credit card issuer checking.csproj", "{EDC47E92-99DD-48F1-AB7C-6AC6EC4F1AF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{3FDA4ABF-AF38-4D9D-929B-E91F5701471A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FDA4ABF-AF38-4D9D-929B-E91F5701471A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FDA4ABF-AF38-4D9D-929B-E91F5701471A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC47E92-99DD-48F1-AB7C-6AC6EC4F1AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC47E92-99DD-48F1-AB7C-6AC6EC4F1AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC47E92-99DD-48F1-AB7C-6AC6EC4F1AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC47E92-99DD-48F1-AB7C-6AC6EC4F1AF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

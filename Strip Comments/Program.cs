@@ -1,0 +1,3 @@
+﻿string literal = StripCommentsSolution.StripComments("\n\n\nF\n\n\nA\n\nCBB\n\nDE\n\n\n\n\nFBDBDEB\n\n\n\n\nE\n\nB\n\n##\n\nB\n\nF\n\nD\n\n\n\n\n\n#FDA\n\nDE\n\nDC\n\nCC\n\nBD\n\nAE\n\nE\n\nCFE\n\nEDE\n\nD\n\n\n#\n\nE\n\n#\n\nC\n\n#\n\nC\n\nC##\n\nD\n\nC#\n\nA#F\n\nBC\n\n\nC\n\n\nBDEC\n\nC\n\n\n\n\n\nFA\n\nC\n\n#\n\nD\n\nE\n\nF\n\n#\n\nE\n\n#DBB\n\nC#\n\nFA\n\nC\n\nE\n\nD#\n#\n\nCF\n\nAA\n\nD\n\nF\n\n#E", ["#", "$", "!", "-"]).Replace("\n", "\\n");
+
+Console.WriteLine(literal);

@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Mathematical Operatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abbreviate a two word name", "Abbreviate a two word name\Abbreviate a two word name.csproj", "{30A37514-69DB-48FB-AEA0-24E57AAE7A53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square n sum", "Square n sum\Square n sum.csproj", "{8A90CC93-CE53-448A-9691-EB94C163F584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You are a square", "You are a square\You are a square.csproj", "{D499AF63-ED13-74C1-AFF3-1E18E0D3BDA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{30A37514-69DB-48FB-AEA0-24E57AAE7A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30A37514-69DB-48FB-AEA0-24E57AAE7A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30A37514-69DB-48FB-AEA0-24E57AAE7A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A90CC93-CE53-448A-9691-EB94C163F584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A90CC93-CE53-448A-9691-EB94C163F584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A90CC93-CE53-448A-9691-EB94C163F584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A90CC93-CE53-448A-9691-EB94C163F584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D499AF63-ED13-74C1-AFF3-1E18E0D3BDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D499AF63-ED13-74C1-AFF3-1E18E0D3BDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D499AF63-ED13-74C1-AFF3-1E18E0D3BDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D499AF63-ED13-74C1-AFF3-1E18E0D3BDA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

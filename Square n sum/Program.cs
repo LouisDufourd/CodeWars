@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Kata.SquareSum([1,2,2]));

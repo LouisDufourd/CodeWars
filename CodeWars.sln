@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square n sum", "Square n su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You are a square", "You are a square\You are a square.csproj", "{D499AF63-ED13-74C1-AFF3-1E18E0D3BDA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Your order please", "Your order please\Your order please.csproj", "{BB8C67EA-84E2-426A-9156-4158D96B712F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{D499AF63-ED13-74C1-AFF3-1E18E0D3BDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D499AF63-ED13-74C1-AFF3-1E18E0D3BDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D499AF63-ED13-74C1-AFF3-1E18E0D3BDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8C67EA-84E2-426A-9156-4158D96B712F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8C67EA-84E2-426A-9156-4158D96B712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8C67EA-84E2-426A-9156-4158D96B712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8C67EA-84E2-426A-9156-4158D96B712F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

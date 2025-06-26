@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 public static class Kata
 {
     public static string sumStrings(string a, string b)
     {
+        new BigInteger();
         var numberOne = stringToIntArray(a);
         var numberTwo = stringToIntArray(b);
 

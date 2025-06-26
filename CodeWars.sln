@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique in order", "Unique i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove FIrst and last character", "Remove FIrst and last character\Remove FIrst and last character.csproj", "{7820F4BC-3A01-44EB-887B-3E9DAC64BC66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Mathematical Operations", "Basic Mathematical Operations\Basic Mathematical Operations.csproj", "{447CBDEE-4D20-48D3-886A-E69FFB5770BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abbreviate a two word name", "Abbreviate a two word name\Abbreviate a two word name.csproj", "{30A37514-69DB-48FB-AEA0-24E57AAE7A53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{7820F4BC-3A01-44EB-887B-3E9DAC64BC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7820F4BC-3A01-44EB-887B-3E9DAC64BC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7820F4BC-3A01-44EB-887B-3E9DAC64BC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447CBDEE-4D20-48D3-886A-E69FFB5770BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447CBDEE-4D20-48D3-886A-E69FFB5770BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447CBDEE-4D20-48D3-886A-E69FFB5770BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447CBDEE-4D20-48D3-886A-E69FFB5770BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A37514-69DB-48FB-AEA0-24E57AAE7A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A37514-69DB-48FB-AEA0-24E57AAE7A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A37514-69DB-48FB-AEA0-24E57AAE7A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A37514-69DB-48FB-AEA0-24E57AAE7A53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
